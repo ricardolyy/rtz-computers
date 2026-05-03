@@ -2,7 +2,7 @@
 
 # 🖥️ RTZ COMPUTERS
 
-Projeto acadêmico de desenvolvimento web front-end, criado para a disciplina de **Desenvolvimento Web** da faculdade.
+Projeto acadêmico de desenvolvimento web front-end, criado para a disciplina de Construcao De Software Para Web da faculdade.
 
 ---
 
@@ -78,9 +78,4 @@ A integração com o **Bootstrap 5** permitiu garantir que o site funcione corre
 
 ---
 
-## 👨‍🎓 Informações Acadêmicas
 
-- **Instituição:** Faculdade
-- **Disciplina:** Desenvolvimento Web
-- **Aluno:** ricardolyy
-- **Ano:** 2026
