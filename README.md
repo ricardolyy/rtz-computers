@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27323812/README.md)
+(https://github.com/user-attachments/files/27323812/README.md)
 
 # 🖥️ RTZ COMPUTERS
 
